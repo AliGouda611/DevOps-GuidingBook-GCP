@@ -78,9 +78,6 @@ Explore the following resources for more in-depth information:
 
 Keep abreast of updates and best practices in the ever-evolving field of Kubernetes and GKE for efficient management of your containerized applications.
 
-```bash
-gcloud container clusters create [CLUSTER_NAME] --num-nodes=[NUM_NODES]
-
 ```yaml
 apiVersion: autoscaling/v2beta2
 kind: HorizontalPodAutoscaler
